@@ -1,2 +1,6 @@
-# Anaconda
-Python 아나콘다
+Anaconda 아나콘다
+
+[기본설명](https://niceman.tistory.com/85)
+Python 기반의 데이터 분석에 필요한 오픈소스를 모아놓은 개발 플랫폼
+* 패키지 관리자 제공 => 파이썬 효율성을 극대화
+* 가상환경 관리자 제공 => 정말 쉽게 활용가능
