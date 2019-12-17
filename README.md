@@ -1,4 +1,4 @@
-Anaconda 아나콘다
+# Anaconda 아나콘다
 
 [기본설명](https://niceman.tistory.com/85)
 Python 기반의 데이터 분석에 필요한 오픈소스를 모아놓은 개발 플랫폼
